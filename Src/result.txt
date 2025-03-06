@@ -1,0 +1,306 @@
+Time to finish RotateJoints: 2.81 seconds
+red cuboid: 1  , blue cuboid: 0  , green cuboid: 0  
+total cuboid: 1
+total_cycle_time: 9.37 seconds
+average time to finish pickup: 3.93 seconds
+average time to finish drop: 3.73 seconds
+average_cycle_time:  9.37 seconds
+
+red cuboid: 1  , blue cuboid: 0  , green cuboid: 1  
+total cuboid: 2
+total_cycle_time: 19.34 seconds
+average time to finish pickup: 3.39 seconds
+average time to finish drop: 4.14 seconds
+average_cycle_time:  9.67 seconds
+
+red cuboid: 2  , blue cuboid: 0  , green cuboid: 1  
+total cuboid: 3
+total_cycle_time: 27.97 seconds
+average time to finish pickup: 3.22 seconds
+average time to finish drop: 4.01 seconds
+average_cycle_time:  9.32 seconds
+
+red cuboid: 2  , blue cuboid: 1  , green cuboid: 1  
+total cuboid: 4
+total_cycle_time: 37.59 seconds
+average time to finish pickup: 3.13 seconds
+average time to finish drop: 4.08 seconds
+average_cycle_time:  9.40 seconds
+
+red cuboid: 3  , blue cuboid: 1  , green cuboid: 1  
+total cuboid: 5
+total_cycle_time: 45.51 seconds
+average time to finish pickup: 3.08 seconds
+average time to finish drop: 3.93 seconds
+average_cycle_time:  9.10 seconds
+
+red cuboid: 4  , blue cuboid: 1  , green cuboid: 1  
+total cuboid: 6
+total_cycle_time: 53.88 seconds
+average time to finish pickup: 3.03 seconds
+average time to finish drop: 3.92 seconds
+average_cycle_time:  8.98 seconds
+
+red cuboid: 4  , blue cuboid: 1  , green cuboid: 2  
+total cuboid: 7
+total_cycle_time: 62.36 seconds
+average time to finish pickup: 2.98 seconds
+average time to finish drop: 3.91 seconds
+average_cycle_time:  8.91 seconds
+
+red cuboid: 4  , blue cuboid: 1  , green cuboid: 3  
+total cuboid: 8
+total_cycle_time: 70.62 seconds
+average time to finish pickup: 2.95 seconds
+average time to finish drop: 3.90 seconds
+average_cycle_time:  8.83 seconds
+
+red cuboid: 5  , blue cuboid: 1  , green cuboid: 3  
+total cuboid: 9
+total_cycle_time: 78.98 seconds
+average time to finish pickup: 2.93 seconds
+average time to finish drop: 3.91 seconds
+average_cycle_time:  8.78 seconds
+
+red cuboid: 6  , blue cuboid: 1  , green cuboid: 3  
+total cuboid: 10
+total_cycle_time: 86.96 seconds
+average time to finish pickup: 2.91 seconds
+average time to finish drop: 3.88 seconds
+average_cycle_time:  8.70 seconds
+
+red cuboid: 6  , blue cuboid: 1  , green cuboid: 4  
+total cuboid: 11
+total_cycle_time: 95.48 seconds
+average time to finish pickup: 2.89 seconds
+average time to finish drop: 3.89 seconds
+average_cycle_time:  8.68 seconds
+
+red cuboid: 7  , blue cuboid: 1  , green cuboid: 4  
+total cuboid: 12
+total_cycle_time: 104.06 seconds
+average time to finish pickup: 2.88 seconds
+average time to finish drop: 3.89 seconds
+average_cycle_time:  8.67 seconds
+
+red cuboid: 8  , blue cuboid: 1  , green cuboid: 4  
+total cuboid: 13
+total_cycle_time: 112.05 seconds
+average time to finish pickup: 2.91 seconds
+average time to finish drop: 3.80 seconds
+average_cycle_time:  8.62 seconds
+
+red cuboid: 8  , blue cuboid: 1  , green cuboid: 5  
+total cuboid: 14
+total_cycle_time: 119.79 seconds
+average time to finish pickup: 2.92 seconds
+average time to finish drop: 3.73 seconds
+average_cycle_time:  8.56 seconds
+
+red cuboid: 8  , blue cuboid: 1  , green cuboid: 6  
+total cuboid: 15
+total_cycle_time: 129.31 seconds
+average time to finish pickup: 2.94 seconds
+average time to finish drop: 3.76 seconds
+average_cycle_time:  8.62 seconds
+
+red cuboid: 9  , blue cuboid: 1  , green cuboid: 6  
+total cuboid: 16
+total_cycle_time: 138.00 seconds
+average time to finish pickup: 2.95 seconds
+average time to finish drop: 3.75 seconds
+average_cycle_time:  8.62 seconds
+
+red cuboid: 10  , blue cuboid: 1  , green cuboid: 6  
+total cuboid: 17
+total_cycle_time: 147.16 seconds
+average time to finish pickup: 2.96 seconds
+average time to finish drop: 3.77 seconds
+average_cycle_time:  8.66 seconds
+
+red cuboid: 10  , blue cuboid: 2  , green cuboid: 6  
+total cuboid: 18
+total_cycle_time: 158.19 seconds
+average time to finish pickup: 2.98 seconds
+average time to finish drop: 3.81 seconds
+average_cycle_time:  8.79 seconds
+
+red cuboid: 10  , blue cuboid: 3  , green cuboid: 6  
+total cuboid: 19
+total_cycle_time: 169.34 seconds
+average time to finish pickup: 2.98 seconds
+average time to finish drop: 3.87 seconds
+average_cycle_time:  8.91 seconds
+
+red cuboid: 10  , blue cuboid: 3  , green cuboid: 7  
+total cuboid: 20
+total_cycle_time: 179.16 seconds
+average time to finish pickup: 3.00 seconds
+average time to finish drop: 3.90 seconds
+average_cycle_time:  8.96 seconds
+
+red cuboid: 10  , blue cuboid: 3  , green cuboid: 8  
+total cuboid: 21
+total_cycle_time: 188.55 seconds
+average time to finish pickup: 3.00 seconds
+average time to finish drop: 3.92 seconds
+average_cycle_time:  8.98 seconds
+
+red cuboid: 10  , blue cuboid: 4  , green cuboid: 8  
+total cuboid: 22
+total_cycle_time: 199.76 seconds
+average time to finish pickup: 3.00 seconds
+average time to finish drop: 3.95 seconds
+average_cycle_time:  9.08 seconds
+
+red cuboid: 10  , blue cuboid: 4  , green cuboid: 9  
+total cuboid: 23
+total_cycle_time: 209.52 seconds
+average time to finish pickup: 3.01 seconds
+average time to finish drop: 3.92 seconds
+average_cycle_time:  9.11 seconds
+
+red cuboid: 10  , blue cuboid: 5  , green cuboid: 9  
+total cuboid: 24
+total_cycle_time: 223.83 seconds
+average time to finish pickup: 3.07 seconds
+average time to finish drop: 4.04 seconds
+average_cycle_time:  9.33 seconds
+
+red cuboid: 10  , blue cuboid: 5  , green cuboid: 10  
+total cuboid: 25
+total_cycle_time: 233.39 seconds
+average time to finish pickup: 3.07 seconds
+average time to finish drop: 4.06 seconds
+average_cycle_time:  9.34 seconds
+
+red cuboid: 10  , blue cuboid: 5  , green cuboid: 11  
+total cuboid: 26
+total_cycle_time: 241.96 seconds
+average time to finish pickup: 3.08 seconds
+average time to finish drop: 4.01 seconds
+average_cycle_time:  9.31 seconds
+
+red cuboid: 10  , blue cuboid: 6  , green cuboid: 11  
+total cuboid: 27
+total_cycle_time: 253.45 seconds
+average time to finish pickup: 3.08 seconds
+average time to finish drop: 4.04 seconds
+average_cycle_time:  9.39 seconds
+
+red cuboid: 11  , blue cuboid: 6  , green cuboid: 11  
+total cuboid: 28
+total_cycle_time: 263.85 seconds
+average time to finish pickup: 3.11 seconds
+average time to finish drop: 4.05 seconds
+average_cycle_time:  9.42 seconds
+
+red cuboid: 11  , blue cuboid: 7  , green cuboid: 11  
+total cuboid: 29
+total_cycle_time: 276.05 seconds
+average time to finish pickup: 3.11 seconds
+average time to finish drop: 4.10 seconds
+average_cycle_time:  9.52 seconds
+
+red cuboid: 11  , blue cuboid: 8  , green cuboid: 11  
+total cuboid: 30
+total_cycle_time: 288.11 seconds
+average time to finish pickup: 3.12 seconds
+average time to finish drop: 4.13 seconds
+average_cycle_time:  9.60 seconds
+
+----------------------------
+output: 10 cuboid đầu
+Time to finish RotateJoints: 2.81 seconds
+
+
+coordinates: [-1.057852e-01,-1.010078e+00,4.050000e-01] m
+rotation: 3.261924e+01 degrees
+color: r
+Time to finish pickup: 3.93 seconds
+Time to finish drop : 3.73 seconds
+Cycle time: 9.37 seconds
+red: 1
+blue: 0
+green: 0
+coordinates: [6.856445e-02,-1.000859e+00,4.050000e-01] m
+rotation: 3.450852e+01 degrees
+color: g
+Time to finish pickup: 2.86 seconds
+Time to finish drop : 4.54 seconds
+Cycle time: 9.97 seconds
+red: 1
+blue: 0
+green: 1
+coordinates: [-4.701562e-02,-1.000859e+00,4.050000e-01] m
+rotation: 7.330076e+01 degrees
+color: r
+Time to finish pickup: 2.88 seconds
+Time to finish drop : 3.75 seconds
+Cycle time: 8.63 seconds
+red: 2
+blue: 0
+green: 1
+coordinates: [-1.763086e-02,-9.985547e-01,4.050000e-01] m
+rotation: 4.023636e+01 degrees
+color: b
+Time to finish pickup: 2.85 seconds
+Time to finish drop : 4.28 seconds
+Cycle time: 9.62 seconds
+red: 2
+blue: 1
+green: 1
+coordinates: [1.665137e-01,-1.005469e+00,4.050000e-01] m
+rotation: 6.343495e+01 degrees
+color: r
+Time to finish pickup: 2.87 seconds
+Time to finish drop : 3.37 seconds
+Cycle time: 7.92 seconds
+red: 3
+blue: 1
+green: 1
+coordinates: [1.958984e-02,-9.985547e-01,4.050000e-01] m
+rotation: 2.055605e+01 degrees
+color: r
+Time to finish pickup: 2.80 seconds
+Time to finish drop : 3.87 seconds
+Cycle time: 8.37 seconds
+red: 4
+blue: 1
+green: 1
+coordinates: [1.665137e-01,-9.916406e-01,4.050000e-01] m
+rotation: 7.869007e+01 degrees
+color: g
+Time to finish pickup: 2.68 seconds
+Time to finish drop : 3.82 seconds
+Cycle time: 8.47 seconds
+red: 4
+blue: 1
+green: 2
+coordinates: [1.665137e-01,-1.000859e+00,4.050000e-01] m
+rotation: 3.369007e+01 degrees
+color: g
+Time to finish pickup: 2.73 seconds
+Time to finish drop : 3.88 seconds
+Cycle time: 8.26 seconds
+red: 4
+blue: 1
+green: 3
+coordinates: [-6.268750e-02,-1.007773e+00,4.050000e-01] m
+rotation: 5.090614e+01 degrees
+color: r
+Time to finish pickup: 2.74 seconds
+Time to finish drop : 3.94 seconds
+Cycle time: 8.36 seconds
+red: 5
+blue: 1
+green: 3
+coordinates: [1.508418e-01,-1.000859e+00,4.050000e-01] m
+rotation: 7.405460e+01 degrees
+color: r
+Time to finish pickup: 2.73 seconds
+Time to finish drop : 3.57 seconds
+Cycle time: 7.98 seconds
+red: 6
+blue: 1
+green: 3

@@ -1,0 +1,8 @@
+Time to finish RotateJoints: 4.88 seconds
+red cuboid: 0  , blue cuboid: 0  , green cuboid: 1  
+total cuboid: 1
+total_cycle_time: 12.56 seconds
+average time to finish pickup: 8.59 seconds
+average time to finish drop: 2.64 seconds
+average_cycle_time:  12.56 seconds
+
