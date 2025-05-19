@@ -10,7 +10,9 @@ Kết hợp xử lý hình ảnh, tính toán động học, và điều khiển
 - **Phần cứng mô phỏng:** Cánh tay robot UR10, Camera, băng chuyền, và đầu hút BaxterVacuumCup
 
 # 3. Quy trình thực hiện
-Algorithms diagram block
+                              Algorithms diagram block.
+
+
 ![image](https://github.com/user-attachments/assets/b9e5c244-1240-4ef1-834a-0ce0c9d2ec8e)
 
 ## Bước 1: Thiết lập mô phỏng trên nền tảng Vrep
