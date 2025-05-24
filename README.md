@@ -1,15 +1,15 @@
 # Dự án Mô phỏng Hệ thống Phân loại tự động theo Màu sắc các khối hộp trên băng chuyền sử dụng cánh tay UR10
-# 1. Mục tiêu
+# 1.🤖 Mục tiêu
 Tự động hóa quá trình phân loại các khối màu (đỏ, xanh, blue) trên băng chuyền.
 Kết hợp xử lý hình ảnh, tính toán động học, và điều khiển robot để đạt độ chính xác cao trong môi trường mô phỏng.
 
-# 2. Công cụ và Công nghệ
+# 2.🛠️ Công cụ và Công nghệ
 - **Môi trường mô phỏng:** CoppeliaSim (Vrep)
 - **Xử lý hình ảnh:** Xử lý ảnh bằng OpenCV (Python) để phát hiện màu sắc, vị trí và hướng của khối
 - **Điều khiển robot:** MATLAB và Robotics Toolbox (Peter Corke) để giải bài toán động học thuận/ngược
 - **Phần cứng mô phỏng:** Cánh tay robot UR10, Camera, băng chuyền, và đầu hút BaxterVacuumCup
 
-# 3. Quy trình thực hiện
+# 3.🧑‍💼 Quy trình thực hiện
                               Algorithms diagram block.
 
 
@@ -34,7 +34,7 @@ Kết hợp xử lý hình ảnh, tính toán động học, và điều khiển
 - Tgian trung bình cho 1 chu kỳ để phân loại xong 1 khối hộp: ~9,6s
 - Tổng tgian xử lý 30 khối cubid là ~288.11s
 
-# 4. Kết quả minh họa
+#📊 4. Kết quả minh họa
 
 ![image](https://github.com/user-attachments/assets/db7ca2c0-519d-483d-bfab-d409e9f3bad7)
 
